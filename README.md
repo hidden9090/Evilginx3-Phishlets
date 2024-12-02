@@ -15,8 +15,6 @@ The course works in tandem with this repo by diving deep into the entire process
 
 ![EVILGOPHISH MASTERY OUT NOW!](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/ad77289d-91fb-46ee-8fbe-64255be8ff08)
 
-## Save 25% Off with Code: LAUNCH25
-
 # Curriculum Previews:
 
 ![Screenshot 2024-06-01 064917](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/f506630f-06ff-4285-9c09-26fbcf57a588)
