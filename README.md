@@ -13,23 +13,23 @@ EvilGoPhish Mastery is *bar none* the most dynamic and nuanced reverse-proxy phi
 
 The course works in tandem with this repo by diving deep into the entire process of deploying these scripts for red team phishing & smishing campaigns.
 
-![EVILGOPHISH MASTERY OUT NOW!](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/ad77289d-91fb-46ee-8fbe-64255be8ff08)
+![EVILGOPHISH MASTERY OUT NOW!]
 
 # Curriculum Previews:
 
-![Screenshot 2024-06-01 064917](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/f506630f-06ff-4285-9c09-26fbcf57a588)
-![evilgophish 3 0 course preview release setup section trailer](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/9be0b731-6934-4d52-ba7c-becb3141a96)
-![Evilgophish mastery course cloudflare turnstile lesson preview www simplerhacking](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/0c22ecc6-9b6d-44c0-bf3f-e8624ecbd917)
+![Screenshot 2024-06-01 064917]
+![evilgophish 3 0 course preview release setup section trailer]
+![Evilgophish mastery course cloudflare turnstile lesson preview www simplerhacking]
 
-![Screenshot 2024-06-01 044437](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/6a295035-e41a-4c9a-956a-c0366129088c)
+![Screenshot 2024-06-01 044437]
 
 
 
-![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (1)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cb043987-2315-47dc-abf6-9e508d7c1128)
+![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (1)]
 
-![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (2)](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/6a3dd41e-72b4-4701-9675-53f8c765a246)
+![EvilGoPhish Mastery Curriculum Preview from Simpler Hacking (2)]
 
-![(Smaller 8 MB for Github) evilgophish kuba graphic in moving format and gif short 8 second loop](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cba899aa-e100-4af9-b621-f5dce14b2786)
+![(Smaller 8 MB for Github) evilgophish kuba graphic in moving format and gif short 8 second loop]
 
 
 
@@ -98,7 +98,6 @@ Gain access to more private Phishlets not available to the public
 
 
 
-<img width="264" alt="Patreon" src="https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/3e9d587d-0792-4dad-a6d2-aaa004197508">
 
 
 
