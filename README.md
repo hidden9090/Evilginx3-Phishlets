@@ -89,7 +89,7 @@ login:
 - `force_post:` If set to true, it forces the alteration of HTTP method from GET to POST.
 - `is_landing:` If set to true, it means that the page is a landing page for the phishing attack.
 - `js_inject:` This is where you can write some JavaScript to be injected in the webpage. It's typically used to enhance the phishing attack and ensure a smoother victim experience.
-- `domain:` This is a template variable used to replace target hostname used in phishlet configuration.
+- `domain:` This is a template variable used to replace target hostname used in phishlet configuration.   
 
 
 
