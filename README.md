@@ -34,7 +34,7 @@ The course works in tandem with this repo by diving deep into the entire process
 
 ![(Smaller 8 MB for Github) evilgophish kuba graphic in moving format and gif short 8 second loop](https://github.com/simplerhacking/Evilginx3-Phishlets/assets/141525149/cba899aa-e100-4af9-b621-f5dce14b2786)
 
-# Click [HERE](https://www.simplerhacking.com/courses/evilgophish-masterclass-course) to enroll in [**Simpler Hacking's**](https://simplerhacking.medium.com/) EvilGoPhish Mastery Course 
+
 
 
 ## Need Custom Phishlets? 
