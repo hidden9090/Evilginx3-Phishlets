@@ -15,7 +15,7 @@ EvilGoPhish Mastery is *bar none* the most dynamic and nuanced reverse-proxy phi
 The course works in tandem with this repo by diving deep into the entire process of deploying these scripts for red team phishing & smishing campaigns.
 
 
-## Save 25% Off with Code: LAUNCH25
+## Save 25% Off with Code: LAUNCH25  
 
 # Curriculum Previews:
 
