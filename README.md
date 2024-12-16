@@ -121,3 +121,6 @@ MY TELEGRAM  -  https://t.me/hidden9090
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
 Any illegal or malicious use is strictly prohibited.
 I disclaim all responsibility for any harm, loss, or damage that may arise from improper use.
+
+
+https://t.me/+1tDzjSCGDDs0ODA9
