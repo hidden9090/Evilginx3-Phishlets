@@ -7,7 +7,7 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
    
      
 
-This is a course for the advanced hackers, red teams, and penetration testers looking to gain an edge in today's security environment. 
+This is a course for the advanced hackers, red teams, and penetration testers looking to gain an edge in today's security environment.   
 Learn advanced phishing & smishing techniques with EvilGoPhish 3.0, one of the most powerful reverse-proxy phishing tools available.
 
 EvilGoPhish Mastery is *bar none* the most dynamic and nuanced reverse-proxy phishing course on the market.
