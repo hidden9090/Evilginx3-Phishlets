@@ -3,7 +3,7 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
 
-# FOR [Advanced EvilGoPhish Mastery Course] CONTACT IN MY TELEGRAM  -  https://t.me/hidden9090              
+# FOR [Advanced EvilGoPhish Mastery Course] CONTACT IN MY TELEGRAM  -  https://t.me/hidden9090               
    
       
 
