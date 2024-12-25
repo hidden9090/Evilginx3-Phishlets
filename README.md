@@ -3,7 +3,13 @@ I've dedicated substantial time and effort to create and update new phishlets fo
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
 
 
-# FOR [Advanced EvilGoPhish Mastery Course] CONTACT IN MY TELEGRAM  -  https://t.me/hidden9090               
+# FOR [Advanced EvilGoPhish Mastery Course] CONTACT IN MY TELEGRAM  -  https://t.me/hidden9090           
+
+
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
    
         
 
@@ -37,6 +43,11 @@ The course works in tandem with this repo by diving deep into the entire process
 
 ## Need Custom Phishlets? 
 MY TELEGRAM  -  https://t.me/hidden9090
+
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 
 ##
@@ -106,6 +117,9 @@ CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 ## Want more Evilginx Phishlets not available on Github? 
 Gain access to more private Phishlets not available to the public Contact me  -  https://t.me/hidden9090
 
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 
 
@@ -117,6 +131,11 @@ Gain access to more private Phishlets not available to the public Contact me  - 
 
 CONTACT :-
 MY TELEGRAM  -  https://t.me/hidden9090
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
+
 ## Disclaimer
 The tools here are intended solely for legal and ethical use by cybersecurity professionals in controlled environments. 
 Any illegal or malicious use is strictly prohibited.
