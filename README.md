@@ -5,7 +5,7 @@ In this repository, you'll find many custom Evilginx phishlets, finely crafted a
 
 # FOR [Advanced EvilGoPhish Mastery Course] CONTACT IN MY TELEGRAM  -  https://t.me/hidden9090           
 
- 
+  
  
 If not replying you than  I'm busy in that case , please   
 Text my team  
