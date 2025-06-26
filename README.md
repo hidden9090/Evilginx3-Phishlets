@@ -1,4 +1,4 @@
-# Updated Evilginx3 Phishlets       
+# Updated Evilginx3 Phishlets        
 I've dedicated substantial time and effort to create and update new phishlets for Evilginx3. 
 In this repository, you'll find many custom Evilginx phishlets, finely crafted and updated to suit real-world applications.
       
